@@ -37,7 +37,7 @@ For any inquiries or feedback, please contact Raheem Xada at:
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This code is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute it as per the terms of the license.
 
 Designed by [Raheem Xada](https://coding-scorpion.github.io/Personal-Portpolio/).
 
